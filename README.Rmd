@@ -21,6 +21,7 @@ knitr::opts_chunk$set(
 # regexcite
 
 <!-- badges: start -->
+[![codecov](https://codecov.io/gh/nafi007/regexcite/branch/master/graph/badge.svg?token=NUC415G8I7)](https://codecov.io/gh/nafi007/regexcite)
 <!-- badges: end -->
 
 The goal of regexcite is to make regular expressions more exciting!
