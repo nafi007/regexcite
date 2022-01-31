@@ -1,6 +1,8 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+[![codecov](https://codecov.io/gh/nafi007/regexcite/branch/master/graph/badge.svg?token=NUC415G8I7)](https://codecov.io/gh/nafi007/regexcite)
+
 **NOTE: This is a toy package created for expository purposes, for the
 second edition of [R Packages](https://r-pkgs.org). It is not meant to
 actually be useful. If you want a package for factor handling, please
